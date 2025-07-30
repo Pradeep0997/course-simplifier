@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Result - Simplified Content</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: #f8fafc;
+    }
+    .container {
+      max-width: 800px;
+      margin-top: 80px;
+      background: white;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="mb-4">✨ Simplified Content</h1>
+    <h5>Original:</h5>
+    <p><%= original %></p>
+    <h5>Simplified:</h5>
+    <p><%= simplified %></p>
+
+    <% if (keywords && keywords.length > 0) { %>
+      <h5>Detected Keywords:</h5>
+      <ul>
+        <% keywords.forEach(function(kw) { %>
+          <li><%= kw.text %> (Relevance: <%= kw.relevance %>)</li>
+        <% }); %>
+      </ul>
+    <% } %>
+
+    <a href="/" class="btn btn-primary mt-4">Simplify Another</a>
+  </div>
+  <footer>
+    <p>&copy; 2025 Course Simplifier</p>
+  </footer>
+</body>
+</html>
