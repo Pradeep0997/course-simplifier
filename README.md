@@ -60,6 +60,35 @@ Visit http://localhost:3000 to view it in your browser!
 
 
 ```
+---
+## 🌐 Live Demo
+
+🚀 Curious to see Course Simplifier in action?  
+
+
+Check out the live app here 👉 [Course Simplifier Live](https://course-simplifier.onrender.com/)
+
+🔍 **What you can do:**  
+
+
+- Analyze and simplify course content
+
+  
+- Experience IBM NLU in action
+
+  
+- See data stored with IBM Cloudant
+
+  
+- Explore a clean Node.js + EJS web app in your browser
+
+
+
+Try it now and simplify your learning! ✨
+
+
+
+---
 
 
 # 📌 Demo
