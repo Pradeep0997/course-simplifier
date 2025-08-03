@@ -1,6 +1,11 @@
 # 📚 Course Content Simplification Agent
 
+## Problem Statement
 
+Educational materials often vary in complexity and are not always accessible to learners with different levels of prior knowledge. Students may struggle to grasp key concepts due to jargon-heavy or overly advanced explanations in faculty notes and textbooks. The challenge is to develop an AI-powered agent that can intelligently analyze academic content and reframe explanations based on the learner's current proficiency—ranging from beginner to expert. This would support more inclusive learning and personalized education delivery at scale.
+
+
+----
 Course Simplifier is a smart web application that helps students easily understand and organize course content.  
 It uses **IBM Natural Language Understanding (NLU)** to analyze course materials and **Cloudant** as a flexible NoSQL database.  
 Built with **Node.js** and **EJS**, it offers a simple and clean user experience.
