@@ -117,8 +117,9 @@ Try it now and simplify your learning! ✨
 
 
 
-![Uploading Screenshot from 2025-08-08 16-46-09.png…]()
 
+
+<img width="642" height="402" alt="Screenshot from 2025-08-08 16-46-09" src="https://github.com/user-attachments/assets/d843fefc-cf97-43cd-90c8-577756976957" />
 
 
 
