@@ -117,8 +117,9 @@ Try it now and simplify your learning! ✨
 
 
 
+![Uploading Screenshot from 2025-08-08 16-46-09.png…]()
 
-<img width="1352" height="613" alt="ibm-course-simplifier-projectImages5" src="https://github.com/user-attachments/assets/c067a9e3-f194-4eb9-870d-5d594af36746" />
+
 
 
 
