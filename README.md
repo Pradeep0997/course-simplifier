@@ -71,7 +71,7 @@ Visit http://localhost:3000 to view it in your browser!
 🚀 Curious to see Course Simplifier in action?  
 
 
-Check out the live app here 👉 [Course Simplifier Live](https://course-simplifier.onrender.com/)
+Check out the live app here 👉 [Course Simplifier Live](https://course-simplifier-1.onrender.com/)
 
 🔍 **What you can do:**  
 
